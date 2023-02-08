@@ -186,12 +186,13 @@ body{
 }
 
 .card-city{
-  text-align: center;
+  /* text-align: center; */
+  width:500px;
   margin-left: 13px;
   /* background-color: black; */
   color: rgb(255, 255, 255);
   /* border-radius: 50%; */
-  padding: 30px;
+  /* padding: 30px; */
   /* background-color: rgba(46, 45, 45, 0.5) */
 }
 
@@ -207,6 +208,7 @@ body{
  }
  body{
   overflow-x: hidden;
+  font-size: 12px;
  }
 }
 
