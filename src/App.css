@@ -200,7 +200,6 @@ body{
 
 @media only screen and (max-width: 600px) {
  .img-mount{
-  /* width:200vw; */
   object-fit: cover;
   width: 100vw;
   height: 100vh;
